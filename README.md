@@ -1,6 +1,6 @@
 # HCJCalc
 
-A simple calculator built with HTML, CSS, and JavaScript. The application logic was implemented from scratch to strengthen my JavaScript and problem-solving skills.
+A simple calculator built with HTML, CSS, and JavaScript. I built the application logic from scratch to strengthen my JavaScript and problem-solving skills. This project was less about creating a polished UI and more about challenging myself to think through and implement the functionality independently.
 
 ## Live Demo
 🔗 https://rahulsarkar2160.github.io/HCJ-Calc/
